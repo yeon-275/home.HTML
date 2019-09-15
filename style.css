@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+}
+p{
+  margin-top: 80px;
+  font-family: arial;
+  word-spacing: 10px;
+  letter-spacing: 10px;
+  font-size: 0.5px;
+  text-align: center;
+  color: #85ff0e
+}
+.a{
+  text-align: center;
+  padding-top: 40px;
+}
+
+.b{
+  text-align: center;
+
+}
+.text1{
+  text-align: center;
+  display: inline;
+}
+
+.text2{
+  padding-top: 0px;
+  text-align: center;
+}
+.img{
+  text-align: center;
+  margin-top: 10px;
+}
+.home{
+  text-align: center;
+}
+
+#p{
+  color: white;
+}
